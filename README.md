@@ -10,7 +10,7 @@ The result file is a pdf with plotted incorporation rates for the single amino a
 
 ## Prerequisits
 
-* A successful MaxQuant analysis must be performed in advance with the correct labelling (Multiplicity 2, specified light and heavy label).
+* A successful MaxQuant analysis must be performed in advance with the correct labelling (Multiplicity 2, specified light and heavy label, experiment name must be defined, only one sample per analysis is supported).
 
 *	[R](https://cran.r-project.org/bin/windows/base/) needs to be installed (package was developed for version 3.2.4).
 
